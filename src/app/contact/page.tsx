@@ -2,8 +2,8 @@ import { FaFacebook, FaLinkedin, FaGithub, FaWhatsapp } from 'react-icons/fa';
 
 export default function SocialLinks() {
   const socialLinks = [
-    { name: 'Facebook', url: 'https://facebook.com/your-profile', icon: <FaFacebook /> },
-    { name: 'LinkedIn', url: 'https://linkedin.com/in/your-profile', icon: <FaLinkedin /> },
+    { name: 'Facebook', url: 'https://www.facebook.com/tayyaba.rehaman?mibextid=ZbWKwL', icon: <FaFacebook /> },
+    { name: 'LinkedIn', url: 'http://www.linkedin.com/in/tayyaba-shahbaz-801a322b4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app', icon: <FaLinkedin /> },
     { name: 'GitHub', url: 'https://github.com/your-profile', icon: <FaGithub /> },
     { 
       name: 'WhatsApp', 
